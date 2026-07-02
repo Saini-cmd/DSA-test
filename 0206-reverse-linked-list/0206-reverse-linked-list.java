@@ -13,8 +13,6 @@ class Solution {
         ListNode prev = null;
         ListNode curr = head;
 
-        //test-push
-
         while (curr != null) {
             ListNode next = curr.next; 
             curr.next = prev;   
