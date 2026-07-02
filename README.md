@@ -1,5 +1,4 @@
-# DSA-test
-<!---LeetCode Topics Start-->
+
 # LeetCode Topics
 ## Linked List
 | Problem Name | Difficulty |
